@@ -1,0 +1,25 @@
+
+    #EXTINF:-1 tvg-name="NDR Spezial 1" tvg-id="NDRSpezial1.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 1 (Olympia 1)
+    http://ndrspezial-lh.akamaihd.net/i/spezial_1@430235/master.m3u8
+    #EXTINF:-1 tvg-name="NDR Spezial 2" tvg-id="NDRSpezial2.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 2 (Olympia 2)
+    http://ndrspezial-lh.akamaihd.net/i/spezial_2@430236/master.m3u8
+    #EXTINF:-1 tvg-name="NDR Spezial 3" tvg-id="NDRSpezial3.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 3 (Olympia 3)
+    http://ndrspezial-lh.akamaihd.net/i/spezial_3@430237/master.m3u8
+    #EXTINF:-1 tvg-name="NDR Spezial 4“ tvg-id="NDRSpezial4.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 4 (Olympia 4)
+    http://ndrspezial-lh.akamaihd.net/i/spezial_4@430238/master.m3u8
+    #EXTINF:-1 tvg-name="NDR Spezial 5“ tvg-id="NDRSpezial5.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 5 (Olympia 5)
+    http://ndrspezial-lh.akamaihd.net/i/spezial_5@430239/master.m3u8
+    #EXTINF:-1 tvg-name="NDR Spezial 6“ tvg-id="NDRSpezial6.de" group-title="Extra" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ndr.png",NDR Spezial 6 (Olympia 6)
+    http://ndrspezial-lh.akamaihd.net/i/spezial_6@430240/master.m3u8
+    #EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 7 (Olympia)
+    https://zdf-hls-07.akamaized.net/hls/live/2016302/de/veryhigh/master.m3u8
+    #EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 8 (Olympia)
+    https://zdf-hls-08.akamaized.net/hls/live/2016303/de/veryhigh/master.m3u8
+    #EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 9 (Olympia)
+    https://zdf-hls-09.akamaized.net/hls/live/2016304/de/veryhigh/master.m3u8
+    #EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 10 (Olympia)
+    https://zdf-hls-10.akamaized.net/hls/live/2016305/de/veryhigh/master.m3u8
+    #EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 11 (Olympia)
+    https://zdf-hls-11.akamaized.net/hls/live/2016436/de/veryhigh/master.m3u8
+    #EXTINF:-1 radio="false" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/zdf.png",ZDF Event 12 (Olympia)
+    https://zdf-hls-12.akamaized.net/hls/live/2016495/de/veryhigh/master.m3u8
